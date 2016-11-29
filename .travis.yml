@@ -16,13 +16,12 @@ cache:
     - node_modules
 
 env:
-  - CXX=g++-4.8
   # we recommend testing LTS's and latest stable release (bonus points to beta/canary)
-  - EMBER_TRY_SCENARIO=ember-1.13
-  - EMBER_TRY_SCENARIO=ember-lts-2.4
-  - EMBER_TRY_SCENARIO=ember-release
-  - EMBER_TRY_SCENARIO=ember-beta
-  - EMBER_TRY_SCENARIO=ember-canary
+  - CXX=g++-4.8 EMBER_TRY_SCENARIO=ember-1.13
+  - CXX=g++-4.8 EMBER_TRY_SCENARIO=ember-lts-2.4
+  - CXX=g++-4.8 EMBER_TRY_SCENARIO=ember-release
+  - CXX=g++-4.8 EMBER_TRY_SCENARIO=ember-beta
+  - CXX=g++-4.8 EMBER_TRY_SCENARIO=ember-canary
 
 matrix:
   fast_finish: true
