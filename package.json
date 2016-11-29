@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-pouchdb-shim",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "ES6 accessible module for pouchdb within your Ember applications.",
   "directories": {
     "doc": "doc",
