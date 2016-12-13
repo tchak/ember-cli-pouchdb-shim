@@ -27,7 +27,7 @@ ember-cli-pouchdb-shim shims is [MIT Licensed](https://github.com/tchak/ember-cl
 [ember-badge]: http://embadge.io/v1/badge.svg?start=1.13.0
 [npm]: https://www.npmjs.org/package/ember-cli-pouchdb-shim
 [npm-badge]: https://img.shields.io/npm/v/ember-cli-pouchdb-shim.svg?style=flat-square
-[travis]: https://travis-ci.org/tchak/ember-cli-pouchdb-shim.svg?branch=master
-[travis-badge]: https://travis-ci.org/tchak/ember-cli-pouchdb-shim
+[travis]: https://travis-ci.org/tchak/ember-cli-pouchdb-shim
+[travis-badge]: https://travis-ci.org/tchak/ember-cli-pouchdb-shim.svg?branch=master
 [emberobserver]: http://emberobserver.com/addons/ember-cli-pouchdb-shim
 [emberobserver-badge]: http://emberobserver.com/badges/ember-cli-pouchdb-shim.svg
